@@ -4,3 +4,15 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+plantuml/plantuml-server
+herberthe0229/iptv-sources
+unraides/filebrowser
+johngong/baidunetdisk
+ilemonrain/html5-speedtest
+nyanmisaka/jellyfin
+linzeyi/hivision_idphotos
+budtmo/docker-android
+onlyoffice/documentserver
+byaidu/pdf2zh
+alexta69/metube
