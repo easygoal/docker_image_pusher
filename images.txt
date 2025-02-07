@@ -16,3 +16,4 @@ budtmo/docker-android
 onlyoffice/documentserver
 byaidu/pdf2zh
 alexta69/metube
+ollama/ollama
