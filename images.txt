@@ -18,3 +18,4 @@ byaidu/pdf2zh
 alexta69/metube
 ollama/ollama
 gdy666/lucky
+hanxi/xiaomusic
