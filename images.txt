@@ -19,3 +19,4 @@ alexta69/metube
 ollama/ollama
 gdy666/lucky
 hanxi/xiaomusic
+xxxsen/yamdc
