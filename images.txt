@@ -20,3 +20,6 @@ ollama/ollama
 gdy666/lucky
 hanxi/xiaomusic
 xxxsen/yamdc
+spikhalskiy/zerotier
+aceberg/watchyourports
+ddsderek/easyimage
