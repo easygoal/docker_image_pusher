@@ -26,5 +26,5 @@ langgenius/dify-web:0.6.8
 semitechnologies/weaviate:1.19.0
 #doubebly/doube-itv-plus
 g12777/easy-itv
-unilei/aipan-netdisk-search
+wbsu2003/aipan-netdisk-search
 unilei/aipan-netdisk-search-simple
