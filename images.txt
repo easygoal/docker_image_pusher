@@ -27,3 +27,4 @@ semitechnologies/weaviate:1.19.0
 #doubebly/doube-itv-plus
 g12777/easy-itv
 unilei/aipan-netdisk-search
+unilei/aipan-netdisk-search-simple
