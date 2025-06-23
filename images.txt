@@ -28,3 +28,4 @@ semitechnologies/weaviate:1.19.0
 g12777/easy-itv
 wbsu2003/aipan-netdisk-search
 unilei/aipan-netdisk-search-simple
+4gray/iptvnator
