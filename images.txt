@@ -29,3 +29,4 @@ g12777/easy-itv
 wbsu2003/aipan-netdisk-search
 unilei/aipan-netdisk-search-simple
 4gray/iptvnator
+4gray/iptvnator-backend
